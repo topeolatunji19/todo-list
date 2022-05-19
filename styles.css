@@ -1,0 +1,13 @@
+a {
+    color: #6E85B2;
+}
+
+a:hover {
+  color: #55D8C1;
+  text-decoration: none;
+}
+
+.datepicker {
+    padding-top: 0px;
+    border: 0px;
+}
